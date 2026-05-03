@@ -1,0 +1,11 @@
+.playground {
+  margin: 2rem 2.5rem 1.2rem 2.5rem;
+  padding: 0;
+  border: 6px solid red;
+  width: 850vw;
+  height: 500vh;
+  border-radius: 5%;
+  overflow-y: auto;
+}
+
+/* border: 6px solid rgb(236, 75, 75); */
